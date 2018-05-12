@@ -11,6 +11,8 @@ creator:
     gutenberg_agent_id: '37570'
     url: http://www.gutenberg.org/2009/agents/37570
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/35275#30-000-Locked-Out.The-Great-Strike-of-the-Building-Trades-in-Chicago.
 gutenberg_issued: '2011-02-14'
 gutenberg_type: Text
 identifiers:

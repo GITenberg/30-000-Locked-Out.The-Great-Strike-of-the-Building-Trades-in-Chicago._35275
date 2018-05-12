@@ -1,0 +1,28 @@
+_repo: 30-000-Locked-Out.The-Great-Strike-of-the-Building-Trades-in-Chicago._35275
+_version: 0.1.0
+alternative_title: 'Thirty Thousand Locked Out: The Great Strike of the Building Trades
+  in Chicago'
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Beeks, James C.
+    gutenberg_agent_id: '37570'
+    url: http://www.gutenberg.org/2009/agents/37570
+description: ''
+gutenberg_issued: '2011-02-14'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '35275'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Strikes and lockouts -- Building trades -- Illinois -- Chicago'
+- !lcc 'HD'
+- !lcsh 'Strikes and lockouts -- Illinois -- Chicago'
+- !lcsh 'Building trades -- Employees -- Labor unions -- Illinois -- Chicago'
+title: '30,000 Locked Out: The Great Strike of the Building Trades in Chicago'
+url: http://www.gutenberg.org/ebooks/35275
